@@ -1,0 +1,7 @@
+# @see https://securitytxt.org/
+
+# Our security address
+Contact: security@hashicorp.com
+
+# Our PGP key
+#Encryption: https://example.com/pgp-key.txt
